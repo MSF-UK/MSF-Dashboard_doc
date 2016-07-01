@@ -1,7 +1,7 @@
-MSF-Dashboard v0.9.0 - Developper documentation 
+MSF-Dashboard v0.9.0 - Developer documentation 
 =============================================================================================================================
 
-[WARNING: MSF-Dashboard has been released in v1.0.0, developper documentation is currently being updated] 
+[WARNING: MSF-Dashboard has been released in v1.0.0, developer documentation is currently being updated] 
 -----------------------------------------------------------------------------------------------------------------------------
 
 A lightweight and modular data visualization micro-website that can be offlined and adapted to various data-feeds.
